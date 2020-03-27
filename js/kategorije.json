@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "naziv":"Maske za lice"
+    },
+    {
+        "id":2,
+        "naziv":"Kreme za lice"
+    },
+    {
+        "id":3,
+        "naziv":"Micelarne vode"
+    },
+    {
+        "id":4,
+        "naziv":"Tonici za lice"
+    },
+    {
+        "id":5,
+        "naziv":"Kreme za ruke"
+    },
+    {
+        "id":6,
+        "naziv":"Gelovi za lice"
+    }
+]

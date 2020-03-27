@@ -1,0 +1,432 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    line-height: 2;
+    font-family: "Verdana", Sans-serif;
+}
+main{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 100px;
+}
+#centar{
+    width: 70%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 0px auto;
+
+}
+.blok{
+    width: 20%;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    height: 350px;
+    box-shadow: 0px 0px 15px rgba(207, 171, 205, 0.7);
+}
+.blok>p{
+    margin-top: 5px;
+}
+.cenapr{
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+}
+.blok img{
+    width: 100%;
+}
+.btn,#primeni,input[type=button]{
+    padding: 8px;
+    border-radius: 5px;
+    border: 5px;
+    background-color: rgba(207, 171, 205, 0.7);
+}
+aside input,aside select{
+    border-radius: 5px;
+    margin: 5px;
+}
+.naslov{
+    padding: 5px;
+    min-height: 100px;
+}
+header{
+    width: 100%;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    padding: 0px 30px;
+    position: fixed;
+    z-index: 999;
+}
+#drzacpocetna{
+    width: 100%;
+    display: flex;
+}
+.naslovPocetna{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    padding: 80px 30px;
+}
+.naslovPocetna p{
+    margin: 15px 0px;
+}
+h1,.naslovPocetna a{
+    font-family: 'Kaushan Script', cursive;
+}
+.naslovPocetna a{
+    text-transform: uppercase;
+    background-color: rgba(207, 171, 205, 0.7);
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #000;
+}
+.slikapocetna{
+    width: 50%;
+    height: 630px;
+    background-image: url("../img/naslovna.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#logo{
+    width: 20%;
+}
+#logo a{
+    font-family: 'Kaushan Script', cursive;
+}
+nav{
+    padding: 15px;
+}
+nav ul{
+    display: flex;
+    justify-content: space-between;
+}
+nav ul li{
+    list-style-type: none;
+    margin: 15px;
+}
+nav ul li a{
+    text-decoration: none;
+    padding: 15px;
+    color: #000;
+}
+.fas{
+    color: #000;
+}
+.po1{
+    width: 45%;
+}
+.po4{
+    width: 20%;
+}
+nav ul li{
+    position: relative;
+}
+nav ul li>ul{
+    position: absolute;
+}
+.naslov{
+    display: flex;
+    align-items: center;
+}
+
+.po1 img{
+    width: 50%;
+}
+#hamburger{
+    display: none;
+    position: relative;
+}
+#hamburger i{
+    font-size: 30px;
+}
+input,select{
+    margin: 10px;
+}
+#drzacSLajdera{
+    width: 100%;
+    margin-top: 50px;
+}
+#slajder{
+    width:100%;
+}
+#tekst{
+    width: 100%;
+    padding: 20px 30px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.tekst{
+    width: 30%;
+    border-radius: 10px;
+    padding: 15px 7px;
+    text-align: center;
+    box-shadow: 0px 0px 15px rgba(207, 171, 205, 0.7);
+}
+.tekst:hover{
+    box-shadow: 0px 0px 30px rgba(207, 171, 205, 0.7);
+}
+h2{
+    text-align: center;
+    margin: 10px 0px;
+    text-transform: uppercase;
+    font-family: 'Kaushan Script', cursive;
+}
+h3{
+    font-family: 'Kaushan Script', cursive;
+    font-size: 20px;
+}
+.tekst span{
+    border-radius: 50%;
+    padding: 8px 12px;
+    margin: 5px;
+    background-color: rgba(207, 171, 205, 0.7);
+    font-family: 'Kaushan Script', cursive;
+}
+#logo a{
+    text-decoration: none;
+    font-size: 25px;
+    color: #000;
+    font-weight: bold;
+}
+.info{
+    width: 45%;
+    padding: 10px;
+}
+
+.info input,textarea{
+    border: 1px solid #cfabcd;
+    width: 80%;
+    border-radius: 5px;
+}
+.bojaSkrol{
+    background-color: rgba(207, 171, 205, 0.7);
+    transition: background-color 500ms linear;
+    justify-content: space-around;
+}
+#slikaProizvodi{
+    width: 100%;
+    height: 550px;
+    background-image: url("../img/slikaSlajder1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.kontaktslika{
+    background-image: url("../img/slika10s.jpg");
+}
+.slikaProizvodi{
+    background-image: url("../img/slika7s.jpg");
+}
+.naslovStrana{
+    padding-top: 80px;
+    text-align: center;
+}
+.inf{
+    text-align: center;
+}
+.info{
+    margin-top: 30px;
+}
+.drzacInfo{
+    margin: 0px auto;
+    padding-top: 20px;
+    width: 80%;
+    justify-content: center;
+    align-items: center;
+}
+.fas,.far{
+    font-size: 20px;
+}
+#uputstvo{
+    padding: 30px;
+    text-align: left;
+}
+.blok>p{
+    font-style: italic;
+    font-size: 17px;
+}
+.opis{
+    font-size: 13px;
+}
+.blok h3{
+    font-size: 15px;
+}
+#mapa,#mapa iframe{
+    width: 100%;
+    border-radius: 5px;
+}
+.kontaktInfo{
+    width: 100%;
+    padding: 10px;
+}
+
+.futer{
+    width: 100%;
+    background-color: rgba(207, 171, 205, 0.7);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+.futer ul{
+    display: flex;
+}
+.futer li{
+    list-style-type: none;
+    padding: 10px;
+}
+.futer a{
+    text-decoration: none;
+    color: #000;
+}
+.futer i{
+    font-size: 25px;
+}
+#autor{
+    margin: 0px auto;
+    width: 50%;
+    padding-top: 90px;
+    text-align: center;
+}
+#autor img{
+    width: 70%;
+    border-radius: 5px;
+}
+.proizvodNaziv{
+    min-height: 50px;
+}
+#brendoviSlike{
+    margin: 0px auto;
+    width: 90%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding: 15px;
+}
+.brend{
+    width: 15%;
+}
+.brend img{
+    width: 100%;
+    filter: grayscale(100%);
+}
+.brend img:hover{
+    filter: grayscale(0);
+}
+.drzacTekst{
+    width: 90%;
+    border-bottom: 1px solid #c2c2c2;
+    margin: 20px auto;
+}
+
+@media screen and (max-width: 1000px){
+    .blok{
+        height: 380px;
+    }
+}
+@media screen and (max-width: 880px){
+    .po1{
+        width:80%;
+        height: 500px;
+    }
+    .po4,.blok{
+        width: 45%;
+    }
+    .naslov img{
+        width: 100%;
+    }
+    .naslov{
+        flex-direction: column;
+    }
+    .info{
+        width: 90%;
+    }
+    .tekst{
+        width: 40%;
+        margin-top: 20px;
+    }
+    .tekst:last-child{
+        width: 90%;
+    }
+}
+@media screen and (max-width: 630px){
+    .po1,.po4,.blok{
+        width:80%;
+    } 
+    .blok{
+        height: 450px;
+    }
+    .po1{
+        height: 550px;
+    }
+    main{
+        flex-direction: column-reverse;
+    }
+    #filteri{
+        margin: 0px auto;
+        padding: 15px;
+
+    }
+    #hamburger{
+        display: block;
+    }
+    header{
+        justify-content: space-between;
+    }
+    nav ul{
+        position: absolute;
+        top: 66px;
+        right: 0px;
+        width: 100%;
+        display: none;
+    }
+    nav{
+        justify-content: flex-end;
+    }
+    nav ul li{
+        text-align: right;
+        margin: 25px 30px;
+    }
+    main{
+        padding-top: 70px;
+    }
+    #drzacpocetna{
+        flex-direction: column-reverse;
+    }
+    .naslovPocetna,.slikapocetna{
+        width: 100%;
+    }
+    .tekst,.tekst:last-child{
+        width: 100%;
+    }
+    .boja{
+        background-color: rgba(207, 171, 205, 0.7);
+        transition: background-color 200ms linear;
+    }
+    .bojaSkrol{
+        justify-content: space-between;
+    }
+    .brend{
+        width: 30%;
+    }
+
+}
+@media screen and (max-width: 430px){
+    .blok{
+        height: 350px;
+    }
+    .po1{
+        height: 550px;
+    }
+}

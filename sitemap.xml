@@ -1,0 +1,26 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://jmilica.epizy.com/kozmetika/index.html</loc>
+<lastmod>2020-03-24</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>http://jmilica.epizy.com/kozmetika/proizvodi.html</loc>
+<lastmod>2020-03-24</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.9</priority>
+</url>
+<url>
+<loc>http://jmilica.epizy.com/kozmetika/kontakt.html</loc>
+<lastmod>2020-03-24</lastmod>
+<changefreq>yearly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>http://jmilica.epizy.com/kozmetika/autor.html</loc>
+<lastmod>2020-03-24</lastmod>
+<changefreq>yearly</changefreq>
+<priority>0.2</priority>
+</url>
+</urlset>

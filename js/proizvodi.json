@@ -1,0 +1,976 @@
+[
+    {
+        "id": 1,
+        "naziv":"Bye bye dry skin maska",
+        "brend":{
+            "id":"1",
+            "naziv":"Nivea"
+        },
+        "slika":{
+            "src":"img/niveaMaska1",
+            "alt":"Maska za lice"
+        },
+        "opis":"Otkrijte NIVEA Bye Bye Dry Skin hranjivu masku za suvu kožu lica. Bogata ekstraktom meda i prirodnim bademovim uljem.",
+        "cena": 145,
+        "kategorija":{
+            "id":1,
+            "naziv":"Maske za lice"
+        }
+    },
+    {
+        "id": 2,
+        "naziv":"Good morning fresh skin maska",
+        "brend":{
+            "id":"1",
+            "naziv":"Nivea"
+        },
+        "slika":{
+            "src":"img/niveaMaska2",
+            "alt":"Maska za lice"
+        },
+        "opis":"Otkrijte NIVEA Good Morning Fresh Skin masku za lice. Osvežavajuća formulacija sa prirodnom aloe verom.",
+        "cena": 145,
+        "kategorija":{
+            "id":1,
+            "naziv":"Maske za lice"
+        }
+    },
+    {
+        "id": 3,
+        "naziv":"Peel-off urban skin detox maska",
+        "brend":{
+            "id":"1",
+            "naziv":"Nivea"
+        },
+        "slika":{
+            "src":"img/niveaMaska3",
+            "alt":"Maska za lice"
+        },
+        "opis":"Specijalna formulacija sadrži agens koji formira sloj na koži, obogaćena je hidraminom i deluje tako što nežno uklanja izumrle ćelije kože.",
+        "cena": 145,
+        "kategorija":{
+            "id":1,
+            "naziv":"Maske za lice"
+        }
+    },
+    {
+        "id": 4,
+        "naziv":"Q10 power anti-age maska",
+        "brend":{
+            "id":"1",
+            "naziv":"Nivea"
+        },
+        "slika":{
+            "src":"img/niveaMaska4",
+            "alt":"Maska za lice"
+        },
+        "opis":"Otkrijte NIVEA Q10 POWER Anti-age masku za lice. Baršunasta formulacija sa koenzimom Q10 i kreatinom primetno smanjuje bore.",
+        "cena": 145,
+        "kategorija":{
+            "id":1,
+            "naziv":"Maske za lice"
+        }
+    },
+    {
+        "id": 5,
+        "naziv":"Urban Skin Detox 10-minutna maska",
+        "brend":{
+            "id":"1",
+            "naziv":"Nivea"
+        },
+        "slika":{
+            "src":"img/niveaMaska5",
+            "alt":"Maska za lice"
+        },
+        "opis":"Savršen tretman prilagođen užurbanom, urbanom stilu života – dubinski čisti kožu od zagađujućih materija.",
+        "cena": 245,
+        "kategorija":{
+            "id":1,
+            "naziv":"Maske za lice"
+        }
+    },
+    {
+        "id": 6,
+        "naziv":"Urban Detox 1-minutna maska",
+        "brend":{
+            "id":"1",
+            "naziv":"Nivea"
+        },
+        "slika":{
+            "src":"img/niveaMaska6",
+            "alt":"Maska za lice"
+        },
+        "opis":"NIVEA Essentials 1 Minut Urban Detox maska za lice delotvorno i dubinski čisti kožu. Maska sa efekatom pilinga uklanja nečistoće.",
+        "cena": 600,
+        "kategorija":{
+            "id":1,
+            "naziv":"Maske za lice"
+        }
+    },
+    {
+        "id": 7,
+        "naziv":"Essentials bogata noćna krema",
+        "brend":{
+            "id":"1",
+            "naziv":"Nivea"
+        },
+        "slika":{
+            "src":"img/niveaKrema5",
+            "alt":"Krema za lice"
+        },
+        "opis":"Suva i osetljiva koža mora da bude posebno dobro hidrirana, nahranjena i zaštićena jer joj obično nedostaju elementi koji obezbeđuju hidrataciju.",
+        "cena": 600,
+        "kategorija":{
+            "id":2,
+            "naziv":"Kreme za lice"
+        }
+    },
+    {
+        "id": 8,
+        "naziv":"Essentials dnevna krema za mat izgled kože",
+        "brend":{
+            "id":"1",
+            "naziv":"Nivea"
+        },
+        "slika":{
+            "src":"img/niveaKrema6",
+            "alt":"Krema za lice"
+        },
+        "opis":"NIVEA dnevna krema za mat izgled kože sadrži formulaciju koja reguliše sebum i temeljno hidrira bez zatvaranja pora.",
+        "cena": 620,
+        "kategorija":{
+            "id":2,
+            "naziv":"Kreme za lice"
+        }
+    },
+    {
+        "id": 9,
+        "naziv":"Essentials hidratantna dnevna krema",
+        "brend":{
+            "id":"1",
+            "naziv":"Nivea"
+        },
+        "slika":{
+            "src":"img/niveaKrema7",
+            "alt":"Krema za lice"
+        },
+        "opis":"Normalnoj do mešovitoj koži je potrebna intenzivna hidratacija i zaštita od spoljašnjih uticaja kako bi tokom celog dana bila sveža.",
+        "cena": 620,
+        "kategorija":{
+            "id":2,
+            "naziv":"Kreme za lice"
+        }
+    },
+    {
+        "id": 10,
+        "naziv":"Essentials hidratantna noćna krema",
+        "brend":{
+            "id":"1",
+            "naziv":"Nivea"
+        },
+        "slika":{
+            "src":"img/niveaKrema8",
+            "alt":"Krema za lice"
+        },
+        "opis":"Čak i noću, normalnoj i mešovitoj koži potrebna je optimalna hidratacija i zaštita od spoljnih faktora.",
+        "cena": 600,
+        "kategorija":{
+            "id":2,
+            "naziv":"Kreme za lice"
+        }
+    },
+    {
+        "id": 11,
+        "naziv":"Essentials hranljiva dnevna krema",
+        "brend":{
+            "id":"1",
+            "naziv":"Nivea"
+        },
+        "slika":{
+            "src":"img/niveaKrema9",
+            "alt":"Krema za lice"
+        },
+        "opis":"Specijalno osmišljena za suvu kožu, NIVEA hranljiva dnevna krema sa prirodnim bademovim uljem i Hydra IQ se efikasno upija.",
+        "cena": 620,
+        "kategorija":{
+            "id":2,
+            "naziv":"Kreme za lice"
+        }
+    },
+    {
+        "id": 12,
+        "naziv":"Micelarna voda za osetljivu kožu",
+        "brend":{
+            "id":"1",
+            "naziv":"Nivea"
+        },
+        "slika":{
+            "src":"img/niveaMicelarna1",
+            "alt":"Micelarna voda"
+        },
+        "opis":"NIVEA 3 u 1 Micelarna voda za čišćenje lica za osetljivu kožu dubinski čisti, uklanja šminku sa lica i područja oko očiju.",
+        "cena": 500,
+        "kategorija":{
+            "id":3,
+            "naziv":"Micelarne vode"
+        }
+    },
+    {
+        "id": 13,
+        "naziv":"Micelarna voda za normalnu kožu",
+        "brend":{
+            "id":"1",
+            "naziv":"Nivea"
+        },
+        "slika":{
+            "src":"img/niveaMicelarna2",
+            "alt":"Micelarna voda"
+        },
+        "opis":"NIVEA 3u1 negujuća micelarna voda, obogaćena vitaminom E osvežava kožu lica i pomaže da izgleda lepo i negovano.",
+        "cena": 500,
+        "kategorija":{
+            "id":3,
+            "naziv":"Micelarne vode"
+        }
+    },
+    {
+        "id": 14,
+        "naziv":"Micelarna voda za suvu kožu",
+        "brend":{
+            "id":"1",
+            "naziv":"Nivea"
+        },
+        "slika":{
+            "src":"img/niveaMicelarna3",
+            "alt":"Micelarna voda"
+        },
+        "opis":"NIVEA negujuća micelarna voda sa prirodnim uljem badema nežno uklanja šminku, dubinski čisti, hidrira i umiruje kožu.",
+        "cena": 500,
+        "kategorija":{
+            "id":3,
+            "naziv":"Micelarne vode"
+        }
+    },
+    {
+        "id": 15,
+        "naziv":"Micellair Expert micelarna voda",
+        "brend":{
+            "id":"1",
+            "naziv":"Nivea"
+        },
+        "slika":{
+            "src":"img/niveaMicelarna4",
+            "alt":"Micelarna voda"
+        },
+        "opis":"Ne uspevate da uklonite vodootpornu šminku brzo i jednostavno? Inovativna formulacija deluje kao magnet i efikasno uklanja dugotrajnu šminku.",
+        "cena": 500,
+        "kategorija":{
+            "id":3,
+            "naziv":"Micelarne vode"
+        }
+    },
+    {
+        "id": 16,
+        "naziv":"Urban Skin micelarna voda",
+        "brend":{
+            "id":"1",
+            "naziv":"Nivea"
+        },
+        "slika":{
+            "src":"img/niveaMicelarna5",
+            "alt":"Micelarna voda"
+        },
+        "opis":"NIVEA Urban Skin Detox micelarna voda sadrži 3-u-1 formulaciju sa ekstraktom zelenog čaja i algama. Efikasno uklanja šminku i temeljno čisti kožu.",
+        "cena": 500,
+        "kategorija":{
+            "id":3,
+            "naziv":"Micelarne vode"
+        }
+    },
+    {
+        "id": 17,
+        "naziv":"Soft univerzalna krema",
+        "brend":{
+            "id":"1",
+            "naziv":"Nivea"
+        },
+        "slika":{
+            "src":"img/niveaKrema10",
+            "alt":"Krema"
+        },
+        "opis":"NIVEA Soft je krema za intenzivnu hidrataciju kože tokom čitavog dana. Lagana formulacija dozvoljava da kremu koža brzo upije.",
+        "cena": 400,
+        "kategorija":{
+            "id":2,
+            "naziv":"Kreme za lice"
+        }
+    },
+    {
+        "id": 18,
+        "naziv":"Soft univerzalna krema za ruke",
+        "brend":{
+            "id":"1",
+            "naziv":"Nivea"
+        },
+        "slika":{
+            "src":"img/niveaRuke1",
+            "alt":"Krema za ruke"
+        },
+        "opis":"NIVEA Soft je krema za intenzivnu hidrataciju kože tokom čitavog dana. Lagana formulacija dozvoljava da kremu koža brzo upije.",
+        "cena": 330,
+        "kategorija":{
+            "id":5,
+            "naziv":"Kreme za ruke"
+        }
+    },
+    {
+        "id": 19,
+        "naziv":"Tonik za čišćenje lica",
+        "brend":{
+            "id":"1",
+            "naziv":"Nivea"
+        },
+        "slika":{
+            "src":"img/niveaTonik1",
+            "alt":"Tonik za lice"
+        },
+        "opis":"NIVEA tonik za čišćenje lica čisti i osvežava kožu i na optimalan način je priprema za nanošenje dnevne ili noćne kreme.",
+        "cena": 500,
+        "kategorija":{
+            "id":4,
+            "naziv":"Tonici za lice"
+        }
+    },
+    {
+        "id": 20,
+        "naziv":"Tonik za suvu kožu",
+        "brend":{
+            "id":"1",
+            "naziv":"Nivea"
+        },
+        "slika":{
+            "src":"img/niveaTonik2",
+            "alt":"Tonik za lice"
+        },
+        "opis":"NIVEA tonik za čišćenje suve i osetljive kože, hidrira i optimalno priprema kožu za nanošenje dnevne ili noćne kreme.",
+        "cena": 500,
+        "kategorija":{
+            "id":4,
+            "naziv":"Tonici za lice"
+        }
+    },
+    {
+        "id": 24,
+        "naziv":"Tonik za normalnu kožu",
+        "brend":{
+            "id":"3",
+            "naziv":"L'oreal Paris"
+        },
+        "slika":{
+            "src":"img/lorealTonik1",
+            "alt":"Tonik za lice"
+        },
+        "opis":"L'oreal Paris Tonik namenjen je negi normalne i mešovite kože kože. Tonira kožu i uklanja i poslednje nečistoće sa lica.",
+        "cena": 615,
+        "kategorija":{
+            "id":4,
+            "naziv":"Tonici za lice"
+        }
+    },
+    {
+        "id": 25,
+        "naziv":"Tonik za suvu kožu",
+        "brend":{
+            "id":"3",
+            "naziv":"L'oreal Paris"
+        },
+        "slika":{
+            "src":"img/lorealTonik2",
+            "alt":"Tonik za lice"
+        },
+        "opis":"L'oreal Paris tonik namenjen suvoj i osetljivoj koži. Ideal Soft Tonik, savršen je za suvu i osetljivu kožu.",
+        "cena": 615,
+        "kategorija":{
+            "id":4,
+            "naziv":"Tonici za lice"
+        }
+    },
+    {
+        "id": 26,
+        "naziv":"Micelarna Voda Fresh za normalnu kožu",
+        "brend":{
+            "id":"3",
+            "naziv":"L'oreal Paris"
+        },
+        "slika":{
+            "src":"img/lorealMicelarna1",
+            "alt":"Micelarna voda"
+        },
+        "opis":"Nežno uklanja nečistoce. U jednom koraku uklanja šminku sa lica, očiju i usana. Bez trljanja, bez ispiranja.",
+        "cena": 570,
+        "kategorija":{
+            "id":3,
+            "naziv":"Micelarne vode"
+        }
+    },
+    {
+        "id": 27,
+        "naziv":"Micelarna Voda Soft za osetljivu i suvu kožu",
+        "brend":{
+            "id":"3",
+            "naziv":"L'oreal Paris"
+        },
+        "slika":{
+            "src":"img/lorealMicelarna2",
+            "alt":"Micelarna voda"
+        },
+        "opis":"Obogaćena glicerinom. Nežno uklanja nečistoce. U jednom koraku uklanja šminku sa lica, očiju i usana. Bez trljanja, bez ispiranja.",
+        "cena": 570,
+        "kategorija":{
+            "id":3,
+            "naziv":"Micelarne vode"
+        }
+    },
+    {
+        "id": 28,
+        "naziv":"Pure Clay gel za čišćenje lica Purifying",
+        "brend":{
+            "id":"3",
+            "naziv":"L'oreal Paris"
+        },
+        "slika":{
+            "src":"img/lorealGel1",
+            "alt":"Gel za čišćenje lica"
+        },
+        "opis":"Pure Clay gel za pročišćavanje i matiranje kože 3 gline + ekstrakt eukaliptusa.REZULTATI: Koža deluje trenutno osvežena i pročišćena.",
+        "cena": 635,
+        "kategorija":{
+            "id":6,
+            "naziv":"Gelovi za lice"
+        }
+    },
+    {
+        "id": 29,
+        "naziv":"Pure Clay gel za čišćenje lica Brightenin",
+        "brend":{
+            "id":"3",
+            "naziv":"L'oreal Paris"
+        },
+        "slika":{
+            "src":"img/lorealGel2",
+            "alt":"Gel za čišćenje lica"
+        },
+        "opis":"PURE CLAY GEL ZA ČIŠĆENJE LICA SA EFEKTOM PILINGA. REZULTATI: Koža deluje trenutno mekša, glađa i ujednačenija.",
+        "cena": 635,
+        "kategorija":{
+            "id":6,
+            "naziv":"Gelovi za lice"
+        }
+    },
+    {
+        "id": 30,
+        "naziv":"Pure Clay gel za čišćenje lica Exfoliatin",
+        "brend":{
+            "id":"3",
+            "naziv":"L'oreal Paris"
+        },
+        "slika":{
+            "src":"img/lorealGel3",
+            "alt":"Gel za čišćenje lica"
+        },
+        "opis":"PURE CLAY GEL ZA ČIŠĆENJE LICA SA EFEKTOM PILINGA. REZULTATI: Koža deluje trenutno mekša, glađa i ujednačenija.",
+        "cena": 635,
+        "kategorija":{
+            "id":6,
+            "naziv":"Gelovi za lice"
+        }
+    },
+    {
+        "id": 31,
+        "naziv":"Olive oil krema za ruke",
+        "brend":{
+            "id":"1",
+            "naziv":"Nivea"
+        },
+        "slika":{
+            "src":"img/niveaKrema11",
+            "alt":"Krema za ruke"
+        },
+        "opis":"NIVEA Hand olive oil krema za ruke,neguje kožu ruku ne ostavljajući na koži lepljiv osećaj. Intenzivno hidrira suvu kožu ruku.",
+        "cena": 225,
+        "kategorija":{
+            "id":5,
+            "naziv":"Kreme za ruke"
+        }
+    },
+    {
+        "id": 32,
+        "naziv":"Krema za ruke sa Aloe Verom i uljem Jojobe",
+        "brend":{
+            "id":"1",
+            "naziv":"Nivea"
+        },
+        "slika":{
+            "src":"img/niveaKrema12",
+            "alt":"Krema za ruke"
+        },
+        "opis":"Aloe Vera i ulje jojobe su poznati sastojci koji hidriraju i regenerišu. Ova krema hirdira i  omekšava kožu.",
+        "cena": 225,
+        "kategorija":{
+            "id":5,
+            "naziv":"Kreme za ruke"
+        }
+    },
+    {
+        "id": 33,
+        "naziv":"Krema za ruke sa pčelinjim voskom",
+        "brend":{
+            "id":"1",
+            "naziv":"Nivea"
+        },
+        "slika":{
+            "src":"img/niveaKrema13",
+            "alt":"Krema za ruke"
+        },
+        "opis":"Zahvaljujući formulaciji sa pčelinjim voskom koji omekšava, neguje, ima protiv upalno dejstvo i ojačava zaštitnu barijeru kože.",
+        "cena": 225,
+        "kategorija":{
+            "id":5,
+            "naziv":"Kreme za ruke"
+        }
+    },
+    {
+        "id": 34,
+        "naziv":"Matcha&sakura krema za ruke",
+        "brend":{
+            "id":"4",
+            "naziv":"Dove"
+        },
+        "slika":{
+            "src":"img/doveKrema1",
+            "alt":"Krema za ruke"
+        },
+        "opis":"Krema za ruke za suvu kožu.",
+        "cena": 119,
+        "kategorija":{
+            "id":5,
+            "naziv":"Kreme za ruke"
+        }
+    },
+    {
+        "id": 35,
+        "naziv":"Kokosovo mleko krema za ruke",
+        "brend":{
+            "id":"4",
+            "naziv":"Dove"
+        },
+        "slika":{
+            "src":"img/doveKrema2",
+            "alt":"Krema za ruke"
+        },
+        "opis":"Dove krema za ruke sa uljem kokosa i bademovim mlekom.",
+        "cena": 119,
+        "kategorija":{
+            "id":5,
+            "naziv":"Kreme za ruke"
+        }
+    },
+    {
+        "id": 36,
+        "naziv":"Avocado extract krema za ruke",
+        "brend":{
+            "id":"4",
+            "naziv":"Dove"
+        },
+        "slika":{
+            "src":"img/doveKrema3",
+            "alt":"Krema za ruke"
+        },
+        "opis":"Dove krema za ruke sa ekstratom avokada.",
+        "cena": 119,
+        "kategorija":{
+            "id":5,
+            "naziv":"Kreme za ruke"
+        }
+    },
+    {
+        "id": 37,
+        "naziv":"Peel off detox maska",
+        "brend":{
+            "id":"2",
+            "naziv":"Bioten"
+        },
+        "slika":{
+            "src":"img/biotenMaska1",
+            "alt":"Maska za lice"
+        },
+        "opis":"Bioten Detox crna peel off maska za lice, čisti i matira kožu lica zahvaljujući 100% prirodnom aktivnom uglju koji sadrži.",
+        "cena": 210,
+        "kategorija":{
+            "id":1,
+            "naziv":"Maske za lice"
+        }
+    },
+    {
+        "id": 38,
+        "naziv":"Maska za blistav ten",
+        "brend":{
+            "id":"2",
+            "naziv":"Bioten"
+        },
+        "slika":{
+            "src":"img/biotenMaska2",
+            "alt":"Maska za lice"
+        },
+        "opis":"Bioten maska za blistav ten obogaćena je 100% prirodnim uljem argana i shea buterom, koji sadrže visoku koncentraciju masnih kiselina.  ",
+        "cena": 180,
+        "kategorija":{
+            "id":1,
+            "naziv":"Maske za lice"
+        }
+    },
+    {
+        "id": 39,
+        "naziv":"Regenerativna krema za ruke",
+        "brend":{
+            "id":"2",
+            "naziv":"Bioten"
+        },
+        "slika":{
+            "src":"img/biotenKrema1",
+            "alt":"Krema za ruke"
+        },
+        "opis":"Bioten regenerativna krema za ruke efikasno hrani veoma suvu kožu. ",
+        "cena": 170,
+        "kategorija":{
+            "id":5,
+            "naziv":"Kreme za ruke"
+        }
+    },
+    {
+        "id": 40,
+        "naziv":"Hranljiva krema za ruke",
+        "brend":{
+            "id":"2",
+            "naziv":"Bioten"
+        },
+        "slika":{
+            "src":"img/biotenKrema2",
+            "alt":"Krema za ruke"
+        },
+        "opis":"Bioten hranljiva krema za ruke oporavlja i omekšava suvu kožu ruku.",
+        "cena": 170,
+        "kategorija":{
+            "id":5,
+            "naziv":"Kreme za ruke"
+        }
+    },
+    {
+        "id": 41,
+        "naziv":"SOS regenerativna krema za suvu kožu",
+        "brend":{
+            "id":"2",
+            "naziv":"Bioten"
+        },
+        "slika":{
+            "src":"img/biotenKrema3",
+            "alt":"Krema za ruke"
+        },
+        "opis":"Bioten hidrantna SOS krema za ruke omekšava ispucalu kožu ruku, štite i efikasno hidriraju veoma suvu kožu, pružajući prijatan osećaj. ",
+        "cena": 120,
+        "kategorija":{
+            "id":5,
+            "naziv":"Kreme za ruke"
+        }
+    },
+    {
+        "id": 42,
+        "naziv":"Hidrantna krema za ruke",
+        "brend":{
+            "id":"2",
+            "naziv":"Bioten"
+        },
+        "slika":{
+            "src":"img/biotenKrema4",
+            "alt":"Krema za ruke"
+        },
+        "opis":"Formula sa jogurtom i slatkim bademom bioten HIDRATANTNE kreme za ruke obogaćena je sa 100% sastojaka prirodnog porekla.",
+        "cena": 170,
+        "kategorija":{
+            "id":5,
+            "naziv":"Kreme za ruke"
+        }
+    },
+    {
+        "id": 43,
+        "naziv":"Micelarna voda za normalnu kožu",
+        "brend":{
+            "id":"2",
+            "naziv":"Bioten"
+        },
+        "slika":{
+            "src":"img/biotenMicelarna1",
+            "alt":"Micelarna voda"
+        },
+        "opis":"Sadrži izuzetno fine i nežne čestice ulja i vode, koji “hvataju“ i efikasno uklanjaju nečistoće i šminku (čak i vodootpornu).",
+        "cena": 310,
+        "kategorija":{
+            "id":3,
+            "naziv":"Micelarne vode"
+        }
+    },
+    {
+        "id": 44,
+        "naziv":"Micelarna voda za osetljivu kožu",
+        "brend":{
+            "id":"2",
+            "naziv":"Bioten"
+        },
+        "slika":{
+            "src":"img/biotenMicelarna2",
+            "alt":"Micelarna voda"
+        },
+        "opis":"Sadrži izuzetno fine i nežne čestice ulja i vode, koji “hvataju“ i efikasno uklanjaju nečistoće i šminku (čak i vodootpornu). ",
+        "cena": 310,
+        "kategorija":{
+            "id":3,
+            "naziv":"Micelarne vode"
+        }
+    },
+    {
+        "id": 45,
+        "naziv":"Maslina maska za lice",
+        "brend":{
+            "id":"5",
+            "naziv":"Labute"
+        },
+        "slika":{
+            "src":"img/labuteMaska1",
+            "alt":"Maska za lice"
+        },
+        "opis":"Maslinovo ulje podmladjuje, revitalizuje i hrani kožu prirodnim vitaminima i esencijalnim masnim kiselinama.",
+        "cena": 118,
+        "kategorija":{
+            "id":1,
+            "naziv":"Maske za lice"
+        }
+    },
+    {
+        "id": 46,
+        "naziv":"Med maska za lice",
+        "brend":{
+            "id":"5",
+            "naziv":"Labute"
+        },
+        "slika":{
+            "src":"img/labuteMaska2",
+            "alt":"Maska za lice"
+        },
+        "opis":"Ova maska idealan je izvor dugotrajne hidratacije lica, podstiče regeneraciju ćelija i dubinski hrani kožu.",
+        "cena": 118,
+        "kategorija":{
+            "id":1,
+            "naziv":"Maske za lice"
+        }
+    },
+    {
+        "id": 47,
+        "naziv":"Shea butter maska za lice",
+        "brend":{
+            "id":"5",
+            "naziv":"Labute"
+        },
+        "slika":{
+            "src":"img/labuteMaska3",
+            "alt":"Maska za lice"
+        },
+        "opis":"Maska za negu i hidrataciju kože obogaćena shea buterom. Nahranite svoje lice prirodnim vitaminima i esencijalnim masnim kiselinama. ",
+        "cena": 118,
+        "kategorija":{
+            "id":1,
+            "naziv":"Maske za lice"
+        }
+    },
+    {
+        "id": 48,
+        "naziv":"Vitamin maska za lice",
+        "brend":{
+            "id":"5",
+            "naziv":"Labute"
+        },
+        "slika":{
+            "src":"img/labuteMaska4",
+            "alt":"Maska za lice"
+        },
+        "opis":"Mocni kompleks vitamina briše godine sa lica i daje zdravu i mladu kožu. Tokoferil acetat, odnosno vitamin E pruža koži sve hranljive materije. ",
+        "cena": 118,
+        "kategorija":{
+            "id":1,
+            "naziv":"Maske za lice"
+        }
+    },
+    {
+        "id": 49,
+        "naziv":"Nar maska za lice",
+        "brend":{
+            "id":"5",
+            "naziv":"Labute"
+        },
+        "slika":{
+            "src":"img/labuteMaska5",
+            "alt":"Maska za lice"
+        },
+        "opis":"Maska obogacena ekstraktom nara zateže kožu i vraća tonus licu. Prirodni biljni estrogen efikasno zaustavlja starenje i daje koži lepu, zdravu boju.",
+        "cena": 118,
+        "kategorija":{
+            "id":1,
+            "naziv":"Maske za lice"
+        }
+    },
+    {
+        "id": 50,
+        "naziv":"Crveni ženšen  maska za lice",
+        "brend":{
+            "id":"5",
+            "naziv":"Labute"
+        },
+        "slika":{
+            "src":"img/labuteMaska6",
+            "alt":"Maska za lice"
+        },
+        "opis":"Izvanredan antioksidans koji na duže staze odlaže prve znake starenja kože. Ekstrakt crvenog ženšena trenutno poboljšava elastičnost, tonus i  revitalizuje  kožu lica.",
+        "cena": 118,
+        "kategorija":{
+            "id":1,
+            "naziv":"Maske za lice"
+        }
+    },
+    {
+        "id": 51,
+        "naziv":"Avokado maska za lice",
+        "brend":{
+            "id":"5",
+            "naziv":"Labute"
+        },
+        "slika":{
+            "src":"img/labuteMaska7",
+            "alt":"Maska za lice"
+        },
+        "opis":"Bogata vitaminima i dragocenim esencijalnim masnim kiselinama, ova maska dubinski hrani kožu i pruža joj neophodnu hidrataciju.",
+        "cena": 118,
+        "kategorija":{
+            "id":1,
+            "naziv":"Maske za lice"
+        }
+    },
+    {
+        "id": 52,
+        "naziv":"Gel za čišćenje lica kokos i mimoza",
+        "brend":{
+            "id":"6",
+            "naziv":"LBP"
+        },
+        "slika":{
+            "src":"img/lbpGel1",
+            "alt":"Gel za lice"
+        },
+        "opis":"Vratite balans koži sa našim hidrirajućim gelom za čišćenje sa kokosovom vodom. Ovaj nežni gel prirodno balansira i hidrira kožu.",
+        "cena": 330,
+        "kategorija":{
+            "id":6,
+            "naziv":"Gelovi za lice"
+        }
+    },
+    {
+        "id": 53,
+        "naziv":"Gel za čišćenje lica detox",
+        "brend":{
+            "id":"6",
+            "naziv":"LBP"
+        },
+        "slika":{
+            "src":"img/lbpGel2",
+            "alt":"Gel za lice"
+        },
+        "opis":"Recite zbogom svakodnevnom zagađenju kože sa ovim osvežavajućim gelom za čišćenje kože sa dodacima drveta čaja i Vetivera.",
+        "cena": 330,
+        "kategorija":{
+            "id":6,
+            "naziv":"Gelovi za lice"
+        }
+    },
+    {
+        "id": 54,
+        "naziv":"Gel za čišćenje lica ruža",
+        "brend":{
+            "id":"6",
+            "naziv":"LBP"
+        },
+        "slika":{
+            "src":"img/lbpGel3",
+            "alt":"Gel za lice"
+        },
+        "opis":"Osvežite i negujte kožu uz slatki piling. Ova nežna formula sa Muru Muru puterom uklanja mrtvu kožu i nesavršenosti bez isušivanja kože.",
+        "cena": 330,
+        "kategorija":{
+            "id":6,
+            "naziv":"Gelovi za lice"
+        }
+    },
+    {
+        "id": 55,
+        "naziv":"Detox maska za lice",
+        "brend":{
+            "id":"6",
+            "naziv":"LBP"
+        },
+        "slika":{
+            "src":"img/lbpMaska1",
+            "alt":"Maska za lice"
+        },
+        "opis":"Maska za lice u maramici.Trenutno pomaže u neutralisanju efekata zagađenja vazduha na vašu kožu.",
+        "cena": 180,
+        "kategorija":{
+            "id":1,
+            "naziv":"Maske za lice"
+        }
+    },
+    {
+        "id": 56,
+        "naziv":"Maska za lice kokos i mimoza",
+        "brend":{
+            "id":"6",
+            "naziv":"LBP"
+        },
+        "slika":{
+            "src":"img/lbpMaska2",
+            "alt":"Maska za lice"
+        },
+        "opis":"Maska za lice u maramici.Sa prirodnom mešavinom Kokosove vode i cveta Mimoze, ova maska pruža trenutnu hidrataciju.",
+        "cena": 180,
+        "kategorija":{
+            "id":1,
+            "naziv":"Maske za lice"
+        }
+    },
+    {
+        "id": 57,
+        "naziv":"Maska za lice kokos i ruža",
+        "brend":{
+            "id":"6",
+            "naziv":"LBP"
+        },
+        "slika":{
+            "src":"img/lbpMaska3",
+            "alt":"Maska za lice"
+        },
+        "opis":"Maska za lice u maramici.Upotpunite svoju rutinu za negu kožu uz našu masku za lice u maramici koja daje predivan, sjajan izgled koži.",
+        "cena": 180,
+        "kategorija":{
+            "id":1,
+            "naziv":"Maske za lice"
+        }
+    }
+    
+
+]
