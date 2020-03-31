@@ -101,7 +101,7 @@
             "alt":"Maska za lice"
         },
         "opis":"NIVEA Essentials 1 Minut Urban Detox maska za lice delotvorno i dubinski čisti kožu. Maska sa efekatom pilinga uklanja nečistoće.",
-        "cena": 600,
+        "cena": 620,
         "kategorija":{
             "id":1,
             "naziv":"Maske za lice"
@@ -119,7 +119,7 @@
             "alt":"Krema za lice"
         },
         "opis":"Suva i osetljiva koža mora da bude posebno dobro hidrirana, nahranjena i zaštićena jer joj obično nedostaju elementi koji obezbeđuju hidrataciju.",
-        "cena": 600,
+        "cena": 620,
         "kategorija":{
             "id":2,
             "naziv":"Kreme za lice"
@@ -173,7 +173,7 @@
             "alt":"Krema za lice"
         },
         "opis":"Čak i noću, normalnoj i mešovitoj koži potrebna je optimalna hidratacija i zaštita od spoljnih faktora.",
-        "cena": 600,
+        "cena": 620,
         "kategorija":{
             "id":2,
             "naziv":"Kreme za lice"
